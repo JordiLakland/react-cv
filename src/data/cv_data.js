@@ -11,16 +11,26 @@ export const candidate = {
 
 export const experience = [
     {
-        position: ['Software Engineer'],
+        position: ['Full-Stack Software Engineer'],
         company: 'Aguacate Projects S.L.',
         startDate: 'Abril 2019',
-        endDate: 'present',
-        location: 'Alicante, Spain <span class="text-sm">(remotely from Warsaw)</span>',
+        endDate: 'Prensente',
+        location: 'Alicante, Spain <span class="text-sm">(Remotamente desde Altea)</span>',
         milestones: [
-            'Líder de equipo responsable del trabajo de tres desarrolladores de software y cooperación con Product Management. Las tareas incluyen tutoría, planificación, código, revisiones de diseño, etc.',
-            'Lideró el diseño, desarrollo, implementación y mantenimiento de una plataforma de <span class = "nowrap"> comercio electrónico </span> para la construcción de enlaces que genera más de 1 millón de euros de ingresos por año <span class = "text-sm"> (consulte <a href="https://prensalink.com"> prensalink.com </a>) </span>. El software utiliza tecnologías como React, Laravel y Docker.',
-            'Diseñó, desarrolló y administró una plataforma de automatización basada en la nube para la interacción del usuario de Instagram con capacidad para ~ 28k sesiones diarias. Utiliza una red de 300 bots de cliente web que se ejecutan en 100 servidores, incluida una red de proxies HTTP para enrutar el tráfico web de los bots a través de túneles OpenVPN (de diferentes proveedores). El software fue escrito en Python.',
-            'Configuración y automatización de infraestructura basada en la nube para el despliegue de todos los productos de la empresa utilizando tecnologías como Amazon EC2 para servidores web, almacenamiento S3 para backups nocturnos, droplets de DigitalOcean para bots y proxies, bitbucket como repositorio de código y JIRA para proyecto y tarea. administración.',
+            'Desarrollo de software y cooperación con Product Management. Las tareas incluyen planificación, código, revisiones de diseño, etc.',
+            'Desarrollo, implementación y mantenimiento de una plataforma de <span class = "nowrap"> comercio electrónico </span> para la construcción de enlaces que genera más de 1 millón de euros de ingresos por año <span class = "text-sm"> (consulta <a href="https://prensalink.com">prensalink.com</a>) </span>. El software utiliza tecnologías como React, Laravel y Docker.',
+            'Mantenimiento de infraestructura basada en la nube para el despliegue de todos los productos de la empresa utilizando tecnologías como Amazon EC2 para servidores web, almacenamiento S3 para backups nocturnos, bitbucket como repositorio de código y JIRA para proyecto y gestor de tareas.',
+        ]
+    },
+    {
+        position: ['Senior Application Programmer'],
+        company: 'Gestión Tributaria Territorial',
+        startDate: 'Julio 2015',
+        endDate: 'Abril 2019',
+        location: 'Alicante',
+        milestones: [
+            'Programador en un equipo específico de desarrollo del Sistema de Información Tributario para uno de los principales clientes.',
+            'Desarrollo, implementación y mantenimiento de la aplicación Tributaria.'
         ]
     },
 ];
