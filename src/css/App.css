@@ -137,6 +137,7 @@ ul ul {
   display: block;
   margin: 0 auto;
   margin-bottom: 16px;
+  border-radius: 10%;
 }
 
 .EducationItem > header, .ExperienceItem > header {
