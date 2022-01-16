@@ -11,7 +11,7 @@ import Skills from './components/Skills';
 import Languages from './components/Languages';
 import ExperienceItem from './components/ExperienceItem';
 
-
+//CV Jordi Cantó Gálvez
 
 import {
   candidate, experience, education, contact,
